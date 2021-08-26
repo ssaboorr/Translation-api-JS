@@ -1,6 +1,6 @@
 var btnTranslator = document.querySelector("#translate-btn");
 var inputTxt = document.querySelector("#input-txt");
-var outputTxt = document.querySelector("#output-txt");
+var outputTxt = document.querySelector("#output");
 
 var serverURL = "https://api.funtranslations.com/translate/groot.json"
 
