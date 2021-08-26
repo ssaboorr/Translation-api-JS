@@ -10,8 +10,6 @@ body {
 }
 
 .container {
-    border-radius: 2rem;
-    border: 2px solid var(--primarycolor);
     padding-left: 4rem;
     padding-right: 4rem;
     margin: 7% 10%;
@@ -51,6 +49,7 @@ textarea {
     padding: 0.5rem;
     background-color: var(--primarycolor);
     display: flex;
+    font-family: 'Indie Flower', cursive;
 }
 
 .container button {
@@ -99,4 +98,8 @@ hr {
 .footer p {
     font-size: 1.2rem;
     padding: 0 10% 0 10%;
+}
+
+.text {
+    font-size: 3rem;
 }
